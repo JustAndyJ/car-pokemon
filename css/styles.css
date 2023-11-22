@@ -22,7 +22,7 @@ html {
 body {
   font-family: sans-serif;
   background-color: var(--color1p);
-  background-image: url(../img/planta/heater.jpg), url(../img/planta/button.png);
+  background-image: url(../img/planta/top.png), url(../img/planta/button.png);
   background-repeat: no-repeat, no-repeat;
   background-position: right 50vw bottom 50vh, left 50vw top 50vh;
   background-size: cover; /* Ajusta el tamaño de las imágenes para cubrir todo el fondo */
